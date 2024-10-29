@@ -1,7 +1,15 @@
-### Hi there👋, This is Jie Zhang!
+<div align="center">
+<img src="https://raw.githubusercontent.com/tmylla/tmylla/refs/heads/main/knock-wooden-fish-recite-scripture.gif" align="center" style="width: 15%" />
+</div>  
+  
+
+## <div align="center">Hi there👋, This is Jie Zhang!</div>  
+  
 
 - 🎓 I’m currently a PhD student at IIE, CAS.
+  
 - 🔑 I’m currently learning Cybersecurity & LLM.
+  
 - 👑 I’m looking to collaborate on interesting projects.
 
 <br />

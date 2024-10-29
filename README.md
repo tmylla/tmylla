@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">Hi there👋, This is Jie Zhang!</div>  
+## <div align="center">Hi, this is Jie Zhang!</div>  
   
 
 - 🎓 I’m currently a PhD student at IIE, CAS.

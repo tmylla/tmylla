@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/tmylla/tmylla/refs/heads/main/knock-wooden-fish-recite-scripture.gif" align="center" style="width: 15%" />
+<img src="https://raw.githubusercontent.com/tmylla/tmylla/refs/heads/main/knock-wooden-fish-recite-scripture.gif" align="center" style="width: 10%" />
 </div>  
   
 
